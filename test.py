@@ -1,3 +1,3 @@
 a = 1 
-b = 'string'
+d = None
 c = 7
